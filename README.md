@@ -1,2 +1,3 @@
-# tugas_kernel_asepvirgo
+# Asep Virgo
+1313619036
 tugas mata kuliah sistem operasi
